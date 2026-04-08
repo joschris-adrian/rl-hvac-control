@@ -1,0 +1,13 @@
+env:
+  target_temperature: 22
+
+training:
+  timesteps: 200000
+
+ppo:
+  learning_rate: 0.0003
+  gamma: 0.99
+
+dqn:
+  learning_rate: 0.0005
+  buffer_size: 100000
