@@ -1,6 +1,6 @@
-gymnasium
-numpy
-matplotlib
-stable-baselines3
-tensorboard
-pyyaml
+gymnasium==1.2.3
+numpy==2.4.4
+matplotlib==3.10.8
+stable_baselines3==2.8.0
+tensorboard==2.20.0
+PyYAML==6.0.3
